@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1512484510 source:c:\users\psplo\desktop\ia\ficha 7\codigotrepacolinas\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1478082415 c:\users\psplo\desktop\ia\ficha 7\codigotrepacolinas\algoritmo.h
+
+1478082402 c:\users\psplo\desktop\ia\ficha 7\codigotrepacolinas\funcao.h
+
+1478082615 c:\users\psplo\desktop\ia\ficha 7\codigotrepacolinas\utils.h
+
+1478776028 source:c:\users\psplo\desktop\ia\ficha 7\codigotrepacolinas\funcao.c
+	"funcao.h"
+
+1511882103 source:c:\users\psplo\desktop\ia\ficha 7\codigotrepacolinas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1478082571 source:c:\users\psplo\desktop\ia\ficha 7\codigotrepacolinas\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
